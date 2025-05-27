@@ -1,6 +1,8 @@
 # 💫 About Me:
 🎓 BS Information Systems, University of Caloocan City<br>🧠 Interested in solving real-world problems through code<br>🧩 Knowledgeable and skilled in system design, frontend development and backend development<br>🎨 I love making art in my free time<br>🎮 I enjoy playing video games when I'm not coding
 
+### 🌱 I’m currently learning:
+- React.js and Vue.js for front-end development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coldbutter_kdc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristoffer-cabigon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kristoffercabigon@gmail.com) 
