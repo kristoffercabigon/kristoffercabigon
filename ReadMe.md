@@ -5,7 +5,7 @@
 ### 🌱 I’m currently learning:
 - React.js and Vue.js for front-end development
 
-# 🔗 [My Portfolio](https://kristoffercabigon.github.io/)
+## 🔗 [My Portfolio](https://kristoffercabigon.github.io/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coldbutter_kdc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristoffer-cabigon) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kristoffercabigon@gmail.com) 
